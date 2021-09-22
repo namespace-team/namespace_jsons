@@ -1,0 +1,37 @@
+{
+  "frontend":{
+    "status": false,
+    "seat": 0,
+    "url": "https://namespace-inc.atlassian.net/wiki/spaces/PUB/pages/1881735289/Job+description+-+Tech+Lead?atlOrigin=eyJpIjoiZDI2N2FjZGE5OWNlNGQzMmE1OTU1OWUwMjRiMzdmMTEiLCJwIjoiYyJ9"
+  },
+  "backend":{
+    "status": false,
+    "seat": 0,
+    "url": "https://namespace-inc.atlassian.net/wiki/spaces/PUB/pages/1881735289/Job+description+-+Tech+Lead?atlOrigin=eyJpIjoiZDI2N2FjZGE5OWNlNGQzMmE1OTU1OWUwMjRiMzdmMTEiLCJwIjoiYyJ9"
+  },
+  "devops":{
+    "status": false,
+    "seat": 0,
+    "url": "https://namespace-inc.atlassian.net/wiki/spaces/PUB/pages/1881735289/Job+description+-+Tech+Lead?atlOrigin=eyJpIjoiZDI2N2FjZGE5OWNlNGQzMmE1OTU1OWUwMjRiMzdmMTEiLCJwIjoiYyJ9"
+  },
+  "ml":{
+    "status": false,
+    "seat": 0,
+    "url": "https://namespace-inc.atlassian.net/wiki/spaces/PUB/pages/1881735289/Job+description+-+Tech+Lead?atlOrigin=eyJpIjoiZDI2N2FjZGE5OWNlNGQzMmE1OTU1OWUwMjRiMzdmMTEiLCJwIjoiYyJ9"
+  },
+  "qa":{
+    "status": false,
+    "seat": 0,
+    "url": "https://namespace-inc.atlassian.net/wiki/spaces/PUB/pages/1881735289/Job+description+-+Tech+Lead?atlOrigin=eyJpIjoiZDI2N2FjZGE5OWNlNGQzMmE1OTU1OWUwMjRiMzdmMTEiLCJwIjoiYyJ9"
+  },
+  "spm":{
+    "status": false,
+    "seat": 0,
+    "url": "https://namespace-inc.atlassian.net/wiki/spaces/PUB/pages/1881735289/Job+description+-+Tech+Lead?atlOrigin=eyJpIjoiZDI2N2FjZGE5OWNlNGQzMmE1OTU1OWUwMjRiMzdmMTEiLCJwIjoiYyJ9"
+  },
+  "intern":{
+    "status": false,
+    "seat": 0,
+    "url": "https://namespace-inc.atlassian.net/wiki/spaces/PUB/pages/1881735289/Job+description+-+Tech+Lead?atlOrigin=eyJpIjoiZDI2N2FjZGE5OWNlNGQzMmE1OTU1OWUwMjRiMzdmMTEiLCJwIjoiYyJ9"
+  }
+}
