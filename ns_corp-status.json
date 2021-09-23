@@ -1,35 +1,42 @@
 {
   "frontend":{
+    "position": "Frontend Engineer",
     "status": false,
     "seat": 0,
     "url": ""
   },
   "backend":{
+    "position": "Backend Engineer",
     "status": false,
     "seat": 0,
     "url": ""
   },
   "devops":{
+    "position": "DevOps Engineer",
     "status": false,
     "seat": 0,
     "url": ""
   },
   "ml":{
+    "position": "Machine Learning Engineer",
     "status": false,
     "seat": 0,
     "url": ""
   },
   "qa":{
+    "position": "Quality Assurance Engineer",
     "status": true,
     "seat": 1,
-    "url": "https://namespace-inc.atlassian.net/wiki/spaces/PUB/pages/1881964592/Job+description+-+Quality+Assurance+Engineer?atlOrigin=eyJpIjoiMjJmZTIxYzJlNzEzNDM0YWI1ZmVhYjhjMjA3Yzc0ZTkiLCJwIjoiYyJ9"
+    "url": "https://namespace-inc.atlassian.net/wiki/external/1881964592/OWMyMWU0YTgyNGE1NGZlOTk0OWY5Mzk1MjdjYTkwNWE?atlOrigin=eyJpIjoiYjBlY2Q1NmE4NDIwNDU4MzllYTU5NzFkY2JiZTgyZjAiLCJwIjoiYyJ9"
   },
-  "projectManager":{
+  "techlead":{
+    "position": "Tech Lead",
     "status": true,
     "seat": 1,
     "url": "https://namespace-inc.atlassian.net/wiki/spaces/PUB/pages/1881735289/Job+description+-+Tech+Lead?atlOrigin=eyJpIjoiZDI2N2FjZGE5OWNlNGQzMmE1OTU1OWUwMjRiMzdmMTEiLCJwIjoiYyJ9"
   },
   "intern":{
+    "position": "Intern",
     "status": false,
     "seat": 0,
     "url": ""
