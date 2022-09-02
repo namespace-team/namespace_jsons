@@ -1,15 +1,15 @@
 {
   "frontend":{
     "position": "Frontend Engineer",
-    "status": false,
+    "status": true,
     "seat": 1,
     "url": "https://namespace-inc.atlassian.net/wiki/external/1881964565/NjIyMWViNjgyY2RlNGVhMGFjYTE5NjBmMjM0MzIwZWM?atlOrigin=eyJpIjoiNzliNTY2ODY3MWVhNDE2NWJiMWI1NmIwZjQ3MGI5OTYiLCJwIjoiYyJ9"
   },
   "backend":{
     "position": "Backend Engineer",
-    "status": false,
-    "seat": 0,
-    "url": ""
+    "status": true,
+    "seat": 1,
+    "url": "https://namespace-inc.atlassian.net/wiki/spaces/PUB/pages/1886224385/Job+description+-+Backend?atlOrigin=eyJpIjoiZTA5ZDJiMGQ1MjM4NDI5OGJmZWNjNjdiODNiNDMwOWUiLCJwIjoiYyJ9"
   },
   "devops":{
     "position": "DevOps Engineer",
