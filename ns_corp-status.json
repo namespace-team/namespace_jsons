@@ -25,8 +25,8 @@
   },
   "qa":{
     "position": "Quality Assurance Engineer",
-    "status": true,
-    "seat": 1,
+    "status": false,
+    "seat": 0,
     "url": "https://namespace-inc.atlassian.net/wiki/external/1881964592/OWMyMWU0YTgyNGE1NGZlOTk0OWY5Mzk1MjdjYTkwNWE?atlOrigin=eyJpIjoiYjBlY2Q1NmE4NDIwNDU4MzllYTU5NzFkY2JiZTgyZjAiLCJwIjoiYyJ9"
   },
   "techlead":{
