@@ -1,4 +1,4 @@
 [
-  {"id": 1381284, "name": "Neekesh Chhetri", "icon": "https://ca.slack-edge.com/T10HGSAUD-U022ED0KBNK-549008b76c58-512","fulltime": 1},
-  {"id": 255063, "name": "Rabin Shrestha", "icon": "https://ca.slack-edge.com/T10HGSAUD-U7RA1M37Z-4832b5fa32dd-512","fulltime": 1}
+  {"id": 1381284, "name": "Neekesh Chhetri", "icon": "https://ca.slack-edge.com/T10HGSAUD-U022ED0KBNK-549008b76c58-512","fulltime": 1,"slack":"U022ED0KBNK"},
+  {"id": 255063, "name": "Rabin Shrestha", "icon": "https://ca.slack-edge.com/T10HGSAUD-U7RA1M37Z-4832b5fa32dd-512","fulltime": 1,"slack":"U7RA1M37Z"}
 ]
