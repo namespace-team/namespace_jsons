@@ -1,2 +1,2 @@
 # namespace_jsons
-collection of json for internal apps
+collection of jsons for internal apps
