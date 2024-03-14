@@ -19,8 +19,8 @@
   },
   "ml":{
     "position": "Machine Learning Engineer",
-    "status": true,
-    "seat": 1,
+    "status": false,
+    "seat": 0,
     "url": "https://namespace-inc.atlassian.net/wiki/external/ZTBmYmNhODg0ODAxNGYzNjg1ZjQ4NWY2MmM1NjdhYTg"
   },
   "qa":{
