@@ -37,8 +37,8 @@
   },
   "intern":{
     "position": "Intern",
-    "status": false,
-    "seat": 0,
+    "status": true,
+    "seat": 4,
     "url": ""
   }
 }
