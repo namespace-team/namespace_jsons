@@ -1,0 +1,24 @@
+{
+  "categories": {
+    "office": [
+      {
+        "date": "2023-11-27",
+        "title": "Break from work"
+      },
+      {
+        "date": "2023-12-04",
+        "title": "test"
+      }
+    ],
+    "holidays": [
+      {
+        "date": "2023-12-25",
+        "title": "Christmas"
+      },
+      {
+        "date": "2024-01-01",
+        "title": "New Year"
+      }
+    ]
+  }
+}
