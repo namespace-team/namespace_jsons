@@ -17,7 +17,7 @@ Every time the handbook is updated, the company will let you know.
 - Follow the following cards for more information.
   
 <details>
-<summary>Introduction and purpose</summary>
+<summary> ## Introduction and purpose</summary>
 - This Team handbook is a code of conduct that establishes policies, procedures, benefits, and working conditions that will be followed by all employees as a condition of their employment in the company.
 
 - The code of conduct describes the expected actions and behaviors of employees while conducting company business.
