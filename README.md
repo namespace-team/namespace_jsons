@@ -4,8 +4,20 @@
     1. [Sub paragraph](#subparagraph1)
 3. [Another paragraph](#paragraph2)
 
+
+## ‼️ Important Note ‼️
+- The company review and update this Team handbook regularly in accordance with changes in laws and regulations.
+
+If you find sections that are no longer relevant or unclear, please tell your supervisor about it. The company will rewrite the sections to clarify or change the policies.
+
+Every time the handbook is updated, the company will let you know.
+
+## Welcome
+- We would like to welcome you to our team. We will try to make your onboarding process as simple as possible.
+- Follow the following cards for more information.
+  
 <details>
-<summary>## Introduction and purpose</summary>
+<summary>Introduction and purpose</summary>
 - This Team handbook is a code of conduct that establishes policies, procedures, benefits, and working conditions that will be followed by all employees as a condition of their employment in the company.
 
 - The code of conduct describes the expected actions and behaviors of employees while conducting company business.
