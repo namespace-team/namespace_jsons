@@ -4,7 +4,8 @@
     1. [Sub paragraph](#subparagraph1)
 3. [Another paragraph](#paragraph2)
 
-## Introduction and purpose
+<details>
+<summary>## Introduction and purpose</summary>
 - This Team handbook is a code of conduct that establishes policies, procedures, benefits, and working conditions that will be followed by all employees as a condition of their employment in the company.
 
 - The code of conduct describes the expected actions and behaviors of employees while conducting company business.
@@ -20,6 +21,8 @@
 - No provision in this handbook and expected code of conduct can be waived without written permission from the company’s president, or designee. Such a waiver, if granted, applies only to the employee for whom the waiver was granted at the time of the waiver.
 
 - Please review the policies, procedures, working conditions, and benefits described in this handbook. You will be asked to affirm that you have read, understand, agree to abide by, and acknowledge your receipt of this handbook and employee code of conduct.
+
+</details>
 
 ## Some paragraph <a name="paragraph1"></a>
 The first paragraph text
