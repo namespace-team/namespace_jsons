@@ -16,8 +16,7 @@ Every time the handbook is updated, the company will let you know.
 - We would like to welcome you to our team. We will try to make your onboarding process as simple as possible.
 - Follow the following cards for more information.
   
-<details>
-<summary> <H2> Introduction and purpose </H2></summary>
+Introduction and purpose 
 - This Team handbook is a code of conduct that establishes policies, procedures, benefits, and working conditions that will be followed by all employees as a condition of their employment in the company.
 
 - The code of conduct describes the expected actions and behaviors of employees while conducting company business.
@@ -34,7 +33,6 @@ Every time the handbook is updated, the company will let you know.
 
 - Please review the policies, procedures, working conditions, and benefits described in this handbook. You will be asked to affirm that you have read, understand, agree to abide by, and acknowledge your receipt of this handbook and employee code of conduct.
 
-</details>
 
 ## Some paragraph <a name="paragraph1"></a>
 The first paragraph text
