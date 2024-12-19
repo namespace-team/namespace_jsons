@@ -84,7 +84,8 @@ While you are working in the team, the following is the list of tools that you w
 
 Kindly ask us on Slack onboarding group to invite you to the above tools if not already invited.
 
-To signup for Slack, Hubstaff, Confluence etc... please use our company email address. For Github, you can use the company email address or your personal email address as you like.
+- To signup for Slack, Hubstaff, Confluence etc... please use our company email address. For Github, you can use the company email address or your personal email address as you like.
+- Add same profile picture for all apps
 
 ## Set up your dev env
 Please follow:
@@ -97,8 +98,16 @@ Also setup helper extension.
 ## Learn our project workflow
 We follow the procedures described in following document to create and working with Issue, Pull Request and Code Review.
 
-Issue, PR and Code Review
+[Issue, PR and Code Review](https://namespace-inc.atlassian.net/wiki/spaces/NI/pages/52264961/Issue+PR+and+Code+review)
+[Development Flow](https://namespace-inc.atlassian.net/wiki/spaces/NI/pages/109543960/Development)
+[Release Flow](https://namespace-inc.atlassian.net/wiki/spaces/NI/pages/128352333/Release)
 
-Development Flow
+## Learn how to document
+We follow certain standards to make our documentation consistent.
+Please follow:  [Documentation procedure](https://namespace-inc.atlassian.net/wiki/spaces/NI/pages/119308537/Draft+Documentation) for detailed information about our documentation procedures.
 
-Release Flow
+## Meet our team
+[Team Members](https://namespace-inc.atlassian.net/wiki/spaces/NI/pages/edit-v2/1786937367)
+- Now test your personality as well 
+[Personality Test](https://www.16personalities.com/free-personality-test)
+
