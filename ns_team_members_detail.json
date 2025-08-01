@@ -1,6 +1,5 @@
 [
   {"id": 750185, "name": "Arjun Shrestha", "icon": "https://hubstaff-account.s3.amazonaws.com/avatars/966833652c0a8be60a68705676fca3ad.jpg","fulltime": 1,"slack":"U06M9BTAB8F"},
-  {"id": 2571495, "name": "Badal Shrestha", "icon": "https://ca.slack-edge.com/T10HGSAUD-U06M9BTAB8F-9bea7b83de8f-512","fulltime": 1,"slack":"UREQBPNSX"},
   {"id": 651101, "name": "Madhav Paudel", "icon": "https://hubstaff-account.s3.amazonaws.com/avatars/a7755135d6daf83847df87e275e4b769.jpg","fulltime": 1,"slack":"UCX53KZE0"},
   {"id": 786073, "name": "Naresh Rawat", "icon": "https://hubstaff-account.s3.amazonaws.com/avatars/f4d28792dc8f0e504eb23d29727556bf.jpeg","fulltime": 1,"slack":"UUD0F7YR2"},
   {"id": 1381284, "name": "Neekesh Chhetri", "icon": "https://ca.slack-edge.com/T10HGSAUD-U022ED0KBNK-549008b76c58-512","fulltime": 1,"slack":"U022ED0KBNK"},
@@ -10,7 +9,6 @@
   {"id": 2031024, "name": "Salina Dangol", "icon": "https://ca.slack-edge.com/T10HGSAUD-U049GQDQBUH-9fad5dff9bc3-512","fulltime": 1,"slack":"U049GQDQBUH"},
   {"id": 2557810, "name": "Seneng Utami", "icon": "https://ca.slack-edge.com/T10HGSAUD-U04H0BY6KE0-7285e1f6f32b-512","fulltime": 1,"slack":"U04H0BY6KE0"},
   {"id": 3235456, "name": "Sumit Pati", "icon": "https://ca.slack-edge.com/T10HGSAUD-U07P7DGUHF1-63d14ed633f5-512","fulltime": 1,"slack":"U07P7DGUHF1"},
-  {"id": 3235467, "name": "Shiraj Shrestha", "icon": "https://ca.slack-edge.com/T10HGSAUD-U08R8DH81NJ-666e6ddb453a-512","fulltime": 1,"slack":"U08R8DH81NJ"},
   {"id": 3235463, "name": "Habi Pyatha", "icon": "https://ca.slack-edge.com/T10HGSAUD-U07Q0L7P9B3-6d8d307ea693-512","fulltime": 1,"slack":"U07Q0L7P9B3"},
   {"id": 3005415, "name": "Usha Suwal", "icon": "https://ca.slack-edge.com/T10HGSAUD-U083997CGBE-8c6f36cbd6f9-512","fulltime": 1,"slack":"U083997CGBE"},
   {"id": 3368365, "name": "Satish Maharjan", "icon": "https://ca.slack-edge.com/T10HGSAUD-U097Q163UTX-16d31283a97f-512","fulltime": 1,"slack":"U097Q163UTX"}
